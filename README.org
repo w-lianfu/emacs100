@@ -1,0 +1,11 @@
+#+TITLE: emacs100
+#+AUTHOR: wlianfu
+#+DATE: 2023
+#+EMAIL: wlianfu@163.com
+#+OPTIONS: emacs100
+
+-----
+
++ Emacs学习笔记
+
+-----
